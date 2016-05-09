@@ -1,9 +1,0 @@
-// A task runner that runs a python program
-{
-    "command": "python3",
-    "showOutput": "always",
-    "windows": {
-        "command": "python3"
-    },
-    "args": ["${file}"]
-}

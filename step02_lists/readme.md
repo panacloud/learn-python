@@ -1,5 +1,5 @@
 Read:
 
-Chapter 2 of Python Crash Course Book
+Chapter 3 of Python Crash Course Book
 
 https://www.amazon.com/Python-Crash-Course-Hands-Project-Based-ebook/dp/B018UXJ9RI

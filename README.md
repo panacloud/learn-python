@@ -1,8 +1,20 @@
 # Learn Python 3 in Baby Steps
 
-Install Python 3
+Install Python 3 Anaconda Python Build from:
 
-https://www.python.org/downloads/
+https://www.continuum.io/downloads
+
+Install PyCharm:
+
+https://www.jetbrains.com/pycharm/download/
+
+
+Setup in PyCharm:
+
+https://www.youtube.com/watch?v=9kPe8zWefoI
+
+http://gowrishankarnath.com/installing-anaconda-python-distribution-and-pycharm-ide-to-setup-a-python-development-environment/
+
 
 Our Text Book: 
 Python Crash Course
